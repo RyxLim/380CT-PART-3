@@ -1,0 +1,16 @@
+C:\Users\RYX\Desktop\TabuSearch\bin\Debug\net5.0\TabuSearch.exe
+C:\Users\RYX\Desktop\TabuSearch\bin\Debug\net5.0\TabuSearch.deps.json
+C:\Users\RYX\Desktop\TabuSearch\bin\Debug\net5.0\TabuSearch.runtimeconfig.json
+C:\Users\RYX\Desktop\TabuSearch\bin\Debug\net5.0\TabuSearch.runtimeconfig.dev.json
+C:\Users\RYX\Desktop\TabuSearch\bin\Debug\net5.0\TabuSearch.dll
+C:\Users\RYX\Desktop\TabuSearch\bin\Debug\net5.0\ref\TabuSearch.dll
+C:\Users\RYX\Desktop\TabuSearch\bin\Debug\net5.0\TabuSearch.pdb
+C:\Users\RYX\Desktop\TabuSearch\obj\Debug\net5.0\TabuSearch.csproj.AssemblyReference.cache
+C:\Users\RYX\Desktop\TabuSearch\obj\Debug\net5.0\TabuSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RYX\Desktop\TabuSearch\obj\Debug\net5.0\TabuSearch.AssemblyInfoInputs.cache
+C:\Users\RYX\Desktop\TabuSearch\obj\Debug\net5.0\TabuSearch.AssemblyInfo.cs
+C:\Users\RYX\Desktop\TabuSearch\obj\Debug\net5.0\TabuSearch.csproj.CoreCompileInputs.cache
+C:\Users\RYX\Desktop\TabuSearch\obj\Debug\net5.0\TabuSearch.dll
+C:\Users\RYX\Desktop\TabuSearch\obj\Debug\net5.0\ref\TabuSearch.dll
+C:\Users\RYX\Desktop\TabuSearch\obj\Debug\net5.0\TabuSearch.pdb
+C:\Users\RYX\Desktop\TabuSearch\obj\Debug\net5.0\TabuSearch.genruntimeconfig.cache
